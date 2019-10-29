@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This is a Coding Temple tutorial video to be followed by a video link. Please reach out to Coding Temple staff for link. 
+
 ## Available Scripts
 
 In the project directory, you can run:
