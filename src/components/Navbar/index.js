@@ -24,7 +24,7 @@ export default class Navbar extends Component {
             <li className="nav-item">
               <NavLink className="nav-link" to="/cart" activeClassName="active">
                 <FontAwesomeIcon icon={faShoppingBasket} />
-                &nbsp;<span class="badge badge-secondary">0 | $0.00</span></NavLink>
+                &nbsp;<span className="badge badge-secondary">0 | $0.00</span></NavLink>
             </li>
           </ul>
         </div>
