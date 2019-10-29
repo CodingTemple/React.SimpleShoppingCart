@@ -4,7 +4,8 @@ export default class Cart extends Component {
   render() {
     return (
       <div>
-        This is the Cart page.
+        <h4>Cart</h4>
+        <hr />
       </div>
     )
   }

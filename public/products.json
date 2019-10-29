@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Air Jordan XIII Retro",
+    "manufacturer": "Nike",
+    "image": "https://firebasestorage.googleapis.com/v0/b/reactproductsdatabase.appspot.com/o/airjordan13retro.jpg?alt=media&token=0f7619a0-8cb8-4864-bc84-2cf50c335036",
+    "price": 109.99,
+    "description": "Non dolor ea ipsum non eiusmod dolor. Officia aute nulla proident elit aliquip quis amet velit occaecat eu. Ullamco laborum sunt ea magna non culpa eiusmod adipisicing ex ad aliqua ex ea commodo.",
+    "color": "purple,white",
+    "type": "Athletic",
+    "inStock": false
+  },
+  {
+    "name": "Kenneth Cole New York",
+    "manufacturer": "Haggar Canada Co.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/reactproductsdatabase.appspot.com/o/kcny-cognac-oxford.jpg?alt=media&token=dbd60d1c-7e67-43bc-bad2-30243577344f",
+    "price": 79.99,
+    "description": "Non dolor ea ipsum non eiusmod dolor. Officia aute nulla proident elit aliquip quis amet velit occaecat eu. Ullamco laborum sunt ea magna non culpa eiusmod adipisicing ex ad aliqua ex ea commodo.",
+    "color": "cognac",
+    "type": "Oxford",
+    "inStock": true
+  },
+  {
+    "name": "Air Max 90iD",
+    "manufacturer": "Nike",
+    "image": "https://firebasestorage.googleapis.com/v0/b/reactproductsdatabase.appspot.com/o/airmax90id.jpg?alt=media&token=a47ca598-ac1f-44e3-b96a-fd528e4c9d72",
+    "price": 97.99,
+    "description": "Non dolor ea ipsum non eiusmod dolor. Officia aute nulla proident elit aliquip quis amet velit occaecat eu. Ullamco laborum sunt ea magna non culpa eiusmod adipisicing ex ad aliqua ex ea commodo.",
+    "color": "purple,white,black",
+    "type": "Walking",
+    "inStock": true
+  }
+]
